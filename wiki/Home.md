@@ -17,6 +17,7 @@ Netclient is a daemon and CLI tool that enables clients to join, manage, and mai
 | Documentation | Description |
 |--------------|-------------|
 | [Architecture](Architecture) | System architecture and component overview |
+| [Network Setup Deep Dive](Network-Setup-Deep-Dive) | Expert guide: WireGuard tunnels, routing, firewalls |
 | [Workflows](Workflows) | Swimlane diagrams for key processes |
 | [System Integration](System-Integration) | OS integration (systemd, firewall, DNS) |
 | [Components](Components) | Detailed component breakdown |
